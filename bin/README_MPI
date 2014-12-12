@@ -1,0 +1,5 @@
+To run MPI you need to tipe in terminal:
+
+
+
+mpirun -n $X ./single_MPI
